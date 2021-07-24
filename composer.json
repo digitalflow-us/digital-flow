@@ -1,14 +1,14 @@
 {
-    "name": "digitalocean-apps/sample-php",
-    "description": "Sample PHP application for App Platform",
+    "name": "digital-flow/app",
+    "description": "A proprietary PHP-based web app for auditing eCommerce stores",
     "type": "project",
     "require": {
         "alrik11es/cowsayphp": "^1.2"
     },
     "authors": [
         {
-            "name": "Kamal Nasser",
-            "email": "kamal@digitalocean.com"
+            "name": "J Clark",
+            "email": "jordan@digitalflow.us"
         }
     ]
 }
